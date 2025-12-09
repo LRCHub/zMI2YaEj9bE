@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "マエガミスト",
+  "base_artist": "MARETU",
+  "createdAt": "2025-12-09T13:21:53.902842Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マエガミスト",
+      "artist": "MARETU",
+      "has_synced": true,
+      "path": "select/01_マエガミスト_MARETU.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マエガミスト - Maegamist",
+      "artist": "MARETU",
+      "has_synced": true,
+      "path": "select/02_マエガミスト_-_Maegamist_MARETU.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マエガミスト",
+      "artist": "MARETU feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/03_マエガミスト_MARETU_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "マエガミスト",
+      "artist": "MARETU",
+      "has_synced": true,
+      "path": "select/04_マエガミスト_MARETU.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "マエガミスト(Maegamist)",
+      "artist": "MARETU",
+      "has_synced": true,
+      "path": "select/05_マエガミスト(Maegamist)_MARETU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マエガミスト",
+      "artist": "MARETU",
+      "has_synced": false,
+      "path": "select/pl_01_マエガミスト_MARETU.txt"
+    }
+  ]
+}
